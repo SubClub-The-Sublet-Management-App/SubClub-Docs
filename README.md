@@ -81,11 +81,54 @@ With the sub.club web app, subletters are able to:
 8. **Design Tools:**
    - **Figma:** A collaborative design tool that enables teams to create, share, and prototype designs. It is known for its real-time collaboration features and is widely used in UX/UI design.
 
-### Optional
+#### Optional
 
 9. **User Authentication:**
    - **Firebase Authentication:** A service provided by Firebase that simplifies the process of authenticating users in your application. It supports various authentication methods, including email/password, social logins, and more. 
 
 
 
+## Project Development Process
+
+### Agile and SCRUM Implementation
+
+Agile is a project management and product development approach that prioritizes flexibility and collaboration. It emphasizes incremental and iterative development, allowing for changes and adaptations throughout the project lifecycle. SCRUM, on the other hand, is a specific Agile framework that organizes work into time-boxed iterations called sprints, typically lasting two to four weeks. It promotes regular team collaboration, frequent inspection, and adaptation.
+
+#### Agile in Solo Development
+
+Adapting Agile to solo development requires a flexible and streamlined approach. The core principles of Agile, such as iterative development and constant feedback, will be integrated into the development process. The focus will be on delivering a minimum viable product (MVP) by breaking down the project into smaller, manageable tasks.
+
+#### SCRUM for Solo Development
+
+While SCRUM is designed for teams, we can leverage its key elements for solo development. Sprints will be time-boxed to one week, allowing for quick feedback loops and adjustments. Daily stand-ups will be replaced with a daily Project Activity Log to maintain transparency and track progress.
+
+
+
+### Development Process Overview
+
+As a solo web developer working on a full-stack project, adapting Agile and SCRUM becomes essential for maintaining organization, progress tracking, and efficient development. Here's how I plan to implement Agile and SCRUM in my solo development process:
+
+**1. Trello Board for Task Tracking:**
+
+I will use a Trello board to represent the product backlog, with each card representing a specific task. The board will have columns such as "Requirements", "Backlog", "To Do," "Doing",  and "Done" to visualize the progress of each task.
+
+**2. Project Activity Log:**
+    
+A Project Activity Log in Markdown format will be maintained to track daily progress. It will include the following information:
+
+* **Dates:** Each day's date will be recorded for chronological tracking.
+* **Goals and Achievements:** A brief summary of the goals set for the day and the accomplishments achieved.
+* **Screenshot of Trello Board:** At the end of each day, a screenshot of the Trello board will be attached to the log, providing a visual representation of the task progress.
+
+**3. Branches on GitHub:**
+
+For each task on the Trello board, a separate branch will be created on GitHub. The branch names will correspond to the Trello card numbers, ensuring clear mapping between tasks and code changes.
+
+**4. Sprint Planning:**
+
+Given the solo nature of the project, the traditional SCRUM team roles (Product Owner, Scrum Master, and Development Team) will be merged into a single role, the developer. Sprint planning will occur at the beginning of each week, with a focus on completing half of the work in the first week (16 to 23 Nov 2023) to allow detailed design work in the second week (24 to 30 Nov 2023).
+
+**5. Daily Standups (Individual):**
+
+A brief daily standup, adapted for solo development, will be conducted. This will involve reviewing the Project Activity Log, discussing progress, identifying any obstacles, and adjusting goals if necessary.
 
