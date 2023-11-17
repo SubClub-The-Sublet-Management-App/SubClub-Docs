@@ -50,3 +50,42 @@ With the sub.club web app, subletters are able to:
 * Owner occupiers 
 * Tenants who have a lease agreement with their landlord that they can sublet.
 
+
+## Tech Stack
+
+1. **Backend:**
+   - **Node.js:** A JavaScript runtime that allows you to execute JavaScript code on the server side. It's designed to be lightweight and efficient for building scalable web applications.
+   - **Express.js:** A web application framework for Node.js that simplifies the process of building robust and scalable APIs.
+
+2. **Frontend:**
+   - **JavaScript:** A versatile programming language that is widely used for building interactive and dynamic web applications.
+   - **ReactJS (create-react-app):** A JavaScript library for building user interfaces, particularly for single-page applications. `create-react-app` is a tool that sets up a React project with a sensible default configuration.
+
+3. **Database:**
+   - **MongoDB Atlas:** A fully-managed cloud database service for MongoDB. It allows you to store and retrieve data in a flexible, JSON-like format.
+
+4. **Deployment Server:**
+   - **Heroku:** A cloud platform as a service (PaaS) that enables developers to deploy, manage, and scale applications. Heroku simplifies the deployment process and provides a platform for hosting web applications.
+
+   - **Netlify:** A platform for continuous deployment that automates the process of deploying and hosting frontend applications. It also provides features like serverless functions and CDN for improved performance.
+
+5. **CSS Framework:**
+   - **Tailwind CSS:** A utility-first CSS framework that provides low-level utility classes to build designs directly in your markup. It's highly customizable and allows for rapid UI development.
+
+6. **Version Control:**
+   - **GitHub:** A web-based platform for version control using Git. GitHub facilitates collaboration among developers, hosting code repositories, and managing project workflows.
+
+7. **Project Management:**
+   - **Trello:** A popular project management tool that uses boards, lists, and cards to organise tasks and collaborate with others. It provides a visual and flexible way to manage projects.
+
+8. **Design Tools:**
+   - **Figma:** A collaborative design tool that enables teams to create, share, and prototype designs. It is known for its real-time collaboration features and is widely used in UX/UI design.
+
+### Optional
+
+9. **User Authentication:**
+   - **Firebase Authentication:** A service provided by Firebase that simplifies the process of authenticating users in your application. It supports various authentication methods, including email/password, social logins, and more. 
+
+
+
+
