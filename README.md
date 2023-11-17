@@ -2,6 +2,12 @@
 
 ## Project Description:
 
+### Overview
+
+SubClub's inspiration comes from the housing challenges faced by individuals in Victoria, where the demand for affordable housing continues to grown. Witnessing the struggles of friends and acquaintances dealing with housing issues made me realise the need for rational solutions.
+
+SubClub was born out of a desire to empower both potential subletters and those already involved in subletting. Based on personal experience and conversations with individuals grappling with the complexities of subletting, this web application aims to simplify the process of contract management and maintain transparent financial records.
+
 
 ### Problem Statement
 The State of Victoria is experiencing a severe and continual rental crisis. This is marked by contributing factors that are making housing less affordable for renters.
@@ -22,7 +28,7 @@ As a result, more individuals are turning to shared living arrangements to cope 
 ### Solution Statement
 Sub.club is a web application that is used by Subletters to address the challenges of subletting. The application provides  a comprehensive solution for individuals looking to rent out their rooms for medium to long term (3 to 12 months).
 
-This web application streamlines the process of managing agreements, sending timely payment reminders and recording payments and creating payment receipts.
+This web application streamlines the process of managing agreements, recording payments and creating payment receipts.
 
 
 ## Key features:
@@ -43,5 +49,4 @@ With the sub.club web app, subletters are able to:
 
 * Owner occupiers 
 * Tenants who have a lease agreement with their landlord that they can sublet.
-
 
