@@ -28,3 +28,14 @@ It has been a busy but productive day and this is what I have achieved today:
 **End of the day Trello board**
 ![Trello board end of day 1](./Trello-screenshots/Day-1-end.png)
 
+### Day 2
+
+#### Date: Fri 17 Nov 2023
+
+Goals:
+
+* Write project description with the specification of the project including: purpose, functionality/features, target audience, and the tech stack (25 Trello card).
+* Research about Agile methodology and write how to apply it to the project (34 Trello card).
+* Research third parties application for that need it for app features (35 Trello card).
+* Create at least 3 user stories (persona) for each target audience.
+
