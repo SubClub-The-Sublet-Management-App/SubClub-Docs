@@ -26,20 +26,22 @@ This web application streamlines the process of managing agreements, sending tim
 
 
 ## Key features:
+
 With the sub.club web app, subletters are able to:
 
-Register new user account
-Login and logout of user account
-Create, update and view rooms (with the description of the room features and what is included in the rent)
-Create, update and view sub-tenant information
-Create, update and view room assignments (subtenant(s), room and a date range)
-When a room assignment is created, a tenant agreement is auto-generated and is print friendly
-Subtenant agreements are auto-generated based on the agreed room assignments
-Create and view past payments
-When a payment is created in the system, a payments receipt is auto-generated and is print friendly
+* Register new user account.
+* Login and logout of user account.
+* Create, update and view rooms (with the description of the room features and what is included in the rent).
+* Create, update and view sub-tenant information.
+* Create, update and view room assignments (subtenant(s), room and a date range).
+    * When a room assignment is created, a printable lease agreement is automatically generated. This contract is based on the agreement of both parties and describes what is included in the rent, such as utilities, items accompanying the room (if furnished), cleaning services and access to shared common areas.
+* Create (Registrated) and view past payments.
+    * When a payment is created in the system, a payments receipt is auto-generated and is print friendly.
 
 
 ## Target Audiences
 
 * Owner occupiers 
 * Tenants who have a lease agreement with their landlord that they can sublet.
+
+
