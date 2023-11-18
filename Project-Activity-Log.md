@@ -56,3 +56,11 @@ So far I have completed most of the tasks of the day. I started with researching
 * Finish the user stories
 * Create the user persona cards
 
+**Achievements and reflexion of the day:**
+
+I've only worked a couple of hours on the project today, I've written some of the user stories and started working on the user cards.
+For the cards I have decided to do them on canvas, so they are still a work in progress.
+
+**End of the day Trello board**
+
+![Trello board of day 3](./Trello-screenshots/Day-3.png)
