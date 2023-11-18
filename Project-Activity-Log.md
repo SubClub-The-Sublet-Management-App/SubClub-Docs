@@ -47,3 +47,12 @@ So far I have completed most of the tasks of the day. I started with researching
 
 ![Trello board of day 2](./Trello-screenshots/Day-2.png)
 
+### Day 3
+
+#### Date: Sat 18 Nov 2023
+
+**Goals:**
+
+* Finish the user stories
+* Create the user persona cards
+
