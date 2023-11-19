@@ -6,7 +6,7 @@ In this log you will find the date, the daily goals and a summary of what has be
 
 This activity log is not only a tool for personal accountability, but also a valuable resource for self-assessment and future planning.
 
-### Day 1
+## Day 1
 
 #### Date: Thu 16 Nov 2023
 
@@ -28,7 +28,7 @@ It has been a busy but productive day and this is what I have achieved today:
 **End of the day Trello board**
 ![Trello board end of day 1](./Trello-screenshots/Day-1-end.png)
 
-### Day 2
+## Day 2
 
 #### Date: Fri 17 Nov 2023
 
@@ -47,7 +47,7 @@ So far I have completed most of the tasks of the day. I started with researching
 
 ![Trello board of day 2](./Trello-screenshots/Day-2.png)
 
-### Day 3
+## Day 3
 
 #### Date: Sat 18 Nov 2023
 
@@ -64,3 +64,16 @@ For the cards I have decided to do them on canvas, so they are still a work in p
 **End of the day Trello board**
 
 ![Trello board of day 3](./Trello-screenshots/Day-3.png)
+
+
+## Day 4
+
+#### Date: Sun 19 Nov 2023
+
+**Goals:**
+
+* Finish user stories
+* Finish user persona cards
+
+
+
