@@ -51,6 +51,53 @@ With the sub.club web app, subletters are able to:
 * Tenants who have a lease agreement with their landlord that they can sublet.
 
 
+## Business case
+
+### Context
+
+The web application solution will operate within an environment that includes people and processes. These people will fall into two key main categories:
+
+1. Listers
+2. Occupants
+
+**Listers** can be sub-categorised into:
+
+1. Home-owner who leases
+2. Tenant who sublets
+
+The sub-categories of people (or actors within the system) are generalised under the umbrella term ‘Listers’ as they are listing their room on different platforms outside of the web application solution. Listers are the target end-users of the to be developed web application solution.
+
+Outside of the web application solution, Listers advertise their spare rooms in one or more multiple ways, which may include:
+
+* Facebook Marketplace
+* Flatmates.com.au
+* Gumtree.com.au
+* Realestate.com.au
+* Domain.com.au
+* Word of mouth through friends and family
+
+The above platforms only help to connect the lister and occupant. But, they do not assist Listers to manage the on-boarding, operational and off-boarding process such as managing contracts/agreements and payment reminders and receipts.
+
+Existing solutions that Listers opt for currently include:
+
+* *Paper-based solution* with printing, writing, scanning and filing to manage data
+* *Excel-based solution* using Microsoft Excel or Google Sheets as a method to manage data
+Or, a hybrid of both above solutions
+
+The problems with the above options is that they are susceptible to human error due to lack of automatic user input validation as well as a lack of user-friendliness.
+
+The web application solution aims to address the above identified market opportunity.
+
+
+
+
+
+
+
+
+
+
+
 ## Tech Stack
 
 1. **Backend:**
@@ -85,6 +132,7 @@ With the sub.club web app, subletters are able to:
 
 9. **User Authentication:**
    - **Firebase Authentication:** A service provided by Firebase that simplifies the process of authenticating users in your application. It supports various authentication methods, including email/password, social logins, and more. 
+
 
 
 
