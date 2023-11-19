@@ -75,5 +75,20 @@ For the cards I have decided to do them on canvas, so they are still a work in p
 * Finish user stories
 * Finish user persona cards
 
+**Achievements and reflexion of the day:**
+
+My main goal was to finalise the card people who represent the potential users of my app. However I realised that the more I created the more I was repeating myself, so I managed to compress potential users into 3 user personas and spent more time writing more user stories than I had initially.
+I met my goal for today and additionally wrote a "business case" to give more context on who the target users are.
+
+**Task added to card(28)**
+
+![Trello board of day 4](./Trello-screenshots/Day-4-task-added.png)
+
+
+**End of the day Trello board**
+
+![Trello board of day 4](./Trello-screenshots/Day-4.png)
+
+
 
 
