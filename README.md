@@ -45,15 +45,7 @@ With the sub.club web app, subletters are able to:
     * When a payment is created in the system, a payments receipt is auto-generated and is print friendly.
 
 
-## Target Audiences
-
-* Owner occupiers 
-* Tenants who have a lease agreement with their landlord that they can sublet.
-
-
-## Business case
-
-### Context
+## Target Audience
 
 The web application solution will operate within an environment that includes people and processes. These people will fall into two key main categories:
 
@@ -62,10 +54,13 @@ The web application solution will operate within an environment that includes pe
 
 **Listers** can be sub-categorised into:
 
-1. Home-owner who leases
-2. Tenant who sublets
+1. **Home-owner who leases**
+2. **Tenant who sublets**
+
 
 The sub-categories of people (or actors within the system) are generalised under the umbrella term ‘Listers’ as they are listing their room on different platforms outside of the web application solution. Listers are the target end-users of the to be developed web application solution.
+
+### Business case context
 
 Outside of the web application solution, Listers advertise their spare rooms in one or more multiple ways, which may include:
 
@@ -89,10 +84,21 @@ The problems with the above options is that they are susceptible to human error 
 The web application solution aims to address the above identified market opportunity.
 
 
+### User Personas
 
+The Minimum Viable Product (MVP) to be developed will focus on delivering value to the Lister user persona. Value creation for the occupant user persona is considered out of scope for the MVP.
 
+**Persona 1**
 
+![persona-1 Alice](./img/persona-1-Alice.png)
 
+**Persona 2**
+
+![persona-2 Danny and Fanny](./img/persona-2-Danny-and-Fanny.png)
+
+**Persona 3**
+
+![persona-3-Thomas](./img/persona-3-Thomas.png)
 
 
 
