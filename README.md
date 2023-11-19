@@ -101,6 +101,69 @@ The Minimum Viable Product (MVP) to be developed will focus on delivering value 
 ![persona-3-Thomas](./img/persona-3-Thomas.png)
 
 
+### User Stories
+
+**User Story 1: PAYMENT DATE REMINDERS**
+
+```
+AS A Lister,
+   I WANT to be reminded of payment dates
+      SO THAT I can follow up receiving payments with my Tenants.
+```
+
+**User Story 2: TENANT PROFILE CREATION AND UPDATE**
+
+```
+AS A Lister,
+    I WANT TO create and update tenant profiles
+        SO THAT I can view the update information when I need them.
+```
+
+
+**User Story 3: CREATION OF ELECTRONIC PAYMENT RECEIPTS**
+```
+AS A Lister,
+    I WANT to be able to create and send electronics payment receipts
+        SO THAT I can have peace of mind when I am away from home.
+```
+
+
+**User Story 4: CREATION AND VIEW OF PAYMENT RECORD**
+
+```
+AS A Lister,
+    I WANT to track the income I receive for the rent of my extra bedrooms
+        SO THAT I can save time when doing my taxes.
+```
+
+**User Story 5: CREATE AND ASSIGN ROOMS**
+```
+AS A LISTER,
+    I WANT to create customised room descriptions 
+        SO THAT I can accurately assign tenants to them.
+```
+
+**User Story 6: VIEW CREATED ROOMS**
+
+```
+AS A lister,
+    I WANT to view information of bedrooms and the dates that the are available and occupied
+        SO THAT I can avoid overbooking rooms.
+```
+
+**User Story 7: AUTOMATIC PAYMENT RECEIPT GENERATION**
+```
+AS A lister,
+    I WANT a payment receipt to be generated automatically
+        SO THAT I can have more free time to spend on personal matters.
+```
+
+**User Story 8: SUBLET CONTRACT GENERATION**
+```
+AS A first time Lister,
+    I WANT to be able to create subletting contracts 
+        SO THAT I can clearly communicate what is included in the sublet agreement.
+```
 
 
 
