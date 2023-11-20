@@ -77,7 +77,7 @@ For the cards I have decided to do them on canvas, so they are still a work in p
 
 **Achievements and reflexion of the day:**
 
-My main goal was to finalise the card people who represent the potential users of my app. However I realised that the more I created the more I was repeating myself, so I managed to compress potential users into 3 user personas and spent more time writing more user stories than I had initially.
+My main goal was to finalise the user personas who represent the potential users of my app. However I realised that the more I created them(user persona cards) the more I was repeating myself, so I managed to compress potential users into 3 user personas and spent more time writing more user stories than I had initially.
 I met my goal for today and additionally wrote a "business case" to give more context on who the target users are.
 
 **Task added to card(28)**
@@ -91,4 +91,12 @@ I met my goal for today and additionally wrote a "business case" to give more co
 
 
 
+## Day 5
+
+#### Date: Mon 20 Nov 2023
+
+**Goals:**
+
+* Divide the task of building a Data Flow Diagram (DFD) into 10 small stask
+* Work on the first 5 task
 
