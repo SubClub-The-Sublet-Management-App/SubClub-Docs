@@ -1,6 +1,6 @@
 # Project Activity Log
 
-Welcome to the activity log of my SubClub fullstack web app project. This document serves as a daily record of progress, providing a clear overview of each day's tasks and achievements.
+Welcome to the activity log of my Sub.Club fullstack web app project. This document serves as a daily record of progress, providing a clear overview of each day's tasks and achievements.
 
 In this log you will find the date, the daily goals and a summary of what has been achieved. For clarity, a screenshot of the Trello board is included at the end of each day, providing a visual summary of the project status.
 
@@ -97,6 +97,17 @@ I met my goal for today and additionally wrote a "business case" to give more co
 
 **Goals:**
 
-* Divide the task of building a Data Flow Diagram (DFD) into 10 small stask
-* Work on the first 5 task
+* Divide the task of building a Data Flow Diagram (DFD) into 10 small stasks.
+* Work on the first 5 tasks.
+
+**Achievements and reflexion of the day:**
+
+So far I have completed 6 of the 10 small tasks on card 29 (Create a data flow diagram) and this has helped me a lot to understand and establish more specific details about my web application. 
+
+No change on the main board only on the card that I am working on.
+
+**End of the day Trello board**
+
+![Trello board of day 5](./Trello-screenshots/Day-5.png)
+
 
