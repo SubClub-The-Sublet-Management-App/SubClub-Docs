@@ -111,3 +111,14 @@ No change on the main board only on the card that I am working on.
 ![Trello board of day 5](./Trello-screenshots/Day-5.png)
 
 
+## Day 6
+
+#### Date: Tue 21 Nov 2023
+
+**Goals:**
+
+* Create a Level 0 DFD and take that as a base to create a more detail DFD with all the process that the web application will handle.
+
+* Build/document the detail DFD and add it to the project documentation.
+
+
