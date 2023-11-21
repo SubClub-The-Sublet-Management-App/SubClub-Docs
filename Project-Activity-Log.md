@@ -122,3 +122,14 @@ No change on the main board only on the card that I am working on.
 * Build/document the detail DFD and add it to the project documentation.
 
 
+**Achievements and reflexion of the day:**
+
+I have worked out my DFD, it just needs a bit of refinement to officially put it in the documentation.
+
+By breaking down the main activity into smaller tasks I was able to create a guideline, and as each task was very descriptive it was very easy to do them.
+
+No change on the main board only on the card that I am working on.
+
+**End of the day Trello board**
+
+![Trello board of day 6](./Trello-screenshots/Day-6.png)
