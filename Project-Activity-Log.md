@@ -133,3 +133,15 @@ No change on the main board only on the card that I am working on.
 **End of the day Trello board**
 
 ![Trello board of day 6](./Trello-screenshots/Day-6.png)
+
+
+## Day 7
+
+#### Date: Wen 22 Nov 2023
+
+**Goals:**
+
+* Review, refine and document DFD.
+* Review and refine the description of the third parties services to used on the project.(35)
+* Create a draft of the Application Architecture Diagram (30)
+* Divide the activity of develop the wireframe (31) into small task.
