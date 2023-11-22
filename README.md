@@ -58,8 +58,138 @@ With the sub.club web app, subletters are able to:
 
 ## Target Audience
 
-* Owner occupiers 
-* Tenants who have a lease agreement with their landlord that they can sublet.
+The web application solution will operate within an environment that includes people and processes. These people will fall into two key main categories:
+
+1. Listers
+2. Occupants
+
+**Listers** can be sub-categorised into:
+
+1. **Home-owner who leases**
+2. **Tenant who sublets**
+
+
+The sub-categories of people (or actors within the system) are generalised under the umbrella term ‘Listers’ as they are listing their room on different platforms outside of the web application solution. Listers are the target end-users of the to be developed web application solution.
+
+### Business case context
+
+Outside of the web application solution, Listers advertise their spare rooms in one or more multiple ways, which may include:
+
+* Facebook Marketplace
+* Flatmates.com.au
+* Gumtree.com.au
+* Realestate.com.au
+* Domain.com.au
+* Word of mouth through friends and family
+
+The above platforms only help to connect the lister and occupant. But, they do not assist Listers to manage the on-boarding, operational and off-boarding process such as managing contracts/agreements and payment reminders and receipts.
+
+Existing solutions that Listers opt for currently include:
+
+* *Paper-based solution* with printing, writing, scanning and filing to manage data
+* *Excel-based solution* using Microsoft Excel or Google Sheets as a method to manage data
+Or, a hybrid of both above solutions
+
+The problems with the above options is that they are susceptible to human error due to lack of automatic user input validation as well as a lack of user-friendliness.
+
+The web application solution aims to address the above identified market opportunity.
+
+
+### User Personas
+
+The Minimum Viable Product (MVP) to be developed will focus on delivering value to the Lister user persona. Value creation for the occupant user persona is considered out of scope for the MVP.
+
+**Persona 1**
+
+![persona-1 Alice](./img/persona-1-Alice.png)
+
+**Persona 2**
+
+![persona-2 Danny and Fanny](./img/persona-2-Danny-and-Fanny.png)
+
+**Persona 3**
+
+![persona-3-Thomas](./img/persona-3-Thomas.png)
+
+
+### User Stories
+
+**User Story 1: PAYMENT DATE REMINDERS**
+
+```
+AS A Lister,
+   I WANT to be reminded of payment dates
+      SO THAT I can follow up receiving payments with my Tenants.
+```
+
+**User Story 2: TENANT PROFILE CREATION AND UPDATE**
+
+```
+AS A Lister,
+    I WANT TO create and update tenant profiles
+        SO THAT I can view the update information when I need them.
+```
+
+
+**User Story 3: CREATION OF ELECTRONIC PAYMENT RECEIPTS**
+```
+AS A Lister,
+    I WANT to be able to create and send electronics payment receipts
+        SO THAT I can have peace of mind when I am away from home.
+```
+
+
+**User Story 4: CREATION AND VIEW OF PAYMENT RECORD**
+
+```
+AS A Lister,
+    I WANT to track the income I receive for the rent of my extra bedrooms
+        SO THAT I can save time when doing my taxes.
+```
+
+**User Story 5: CREATE AND ASSIGN ROOMS**
+```
+AS A LISTER,
+    I WANT to create customised room descriptions 
+        SO THAT I can accurately assign tenants to them.
+```
+
+**User Story 6: VIEW CREATED ROOMS**
+
+```
+AS A lister,
+    I WANT to view information of bedrooms and the dates that the are available and occupied
+        SO THAT I can avoid overbooking rooms.
+```
+
+**User Story 7: AUTOMATIC PAYMENT RECEIPT GENERATION**
+```
+AS A lister,
+    I WANT a payment receipt to be generated automatically
+        SO THAT I can have more free time to spend on personal matters.
+```
+
+**User Story 8: SUBLET CONTRACT GENERATION**
+```
+AS A first time Lister,
+    I WANT to be able to create subletting contracts 
+        SO THAT I can clearly communicate what is included in the sublet agreement.
+```
+
+
+## Data Flow Diagrams
+
+
+***Data Flow Diagram Level 0***
+
+![DFD-Level-0](./readme-img/DFD-Level-0.drawio.svg)
+
+
+
+***Detail Data Flow Diagram***
+
+![DFD-SubClub](./readme-img/DFD-SubClub.drawio.svg)
+
 
 
 ## Tech Stack
@@ -97,26 +227,6 @@ With the sub.club web app, subletters are able to:
 9. **User Authentication:**
    - **Firebase Authentication:** A service provided by Firebase that simplifies the process of authenticating users in your application. It supports various authentication methods, including email/password, social logins, and more. 
 
-
-
-## Data Flow Diagrams
-
-
-***Data Flow Diagram Level 0***
-
-![DFD-Level-0](./readme-img/DFD-Level-0.drawio.svg)
-
-
-
-***Detail Data Flow Diagram***
-
-![DFD-SubClub](./readme-img/DFD-SubClub.drawio.svg)
-
-
-
-Explanation:
-
-The above diagram represent the process within the app, here a detail explanation of it:
 
 
 
