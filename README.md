@@ -1,5 +1,16 @@
 # Project: SubClub - The Sublet Management App
 
+1. [Project Description](#project-description)
+2. [Key Features](#key-features)
+3. [Target Audience](#target-audiences)
+4. [Tech Stack](#tech-stack)
+5. [User Stories]
+6. [Data Flow Diagrams](#data-flow-diagram)
+7. [Application Architecture Diagram]
+8. [Wireframes]
+9. [Project Development Process](#project-development-process)
+
+
 ## Project Description:
 
 ### Overview
@@ -166,6 +177,20 @@ AS A first time Lister,
 ```
 
 
+## Data Flow Diagrams
+
+
+***Data Flow Diagram Level 0***
+
+![DFD-Level-0](./readme-img/DFD-Level-0.drawio.svg)
+
+
+
+***Detail Data Flow Diagram***
+
+![DFD-SubClub](./readme-img/DFD-SubClub.drawio.svg)
+
+
 
 ## Tech Stack
 
@@ -218,8 +243,6 @@ Adapting Agile to solo development requires a flexible and streamlined approach.
 #### SCRUM for Solo Development
 
 While SCRUM is designed for teams, we can leverage its key elements for solo development. Sprints will be time-boxed to one week, allowing for quick feedback loops and adjustments. Daily stand-ups will be replaced with a daily Project Activity Log to maintain transparency and track progress.
-
-
 
 ### Development Process Overview
 
