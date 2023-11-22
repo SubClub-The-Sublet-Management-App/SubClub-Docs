@@ -1,5 +1,12 @@
 # Project: SubClub - The Sublet Management App
 
+1. [Project Description](#project-description)
+2. [Key Features](#key-features)
+3. [Target Audience](#target-audiences)
+4. [Tech Stack](#tech-stack)
+5. [Project Development Process](#project-development-process)
+
+
 ## Project Description:
 
 ### Overview
@@ -45,7 +52,7 @@ With the sub.club web app, subletters are able to:
     * When a payment is created in the system, a payments receipt is auto-generated and is print friendly.
 
 
-## Target Audiences
+## Target Audience
 
 * Owner occupiers 
 * Tenants who have a lease agreement with their landlord that they can sublet.
@@ -101,8 +108,6 @@ Adapting Agile to solo development requires a flexible and streamlined approach.
 #### SCRUM for Solo Development
 
 While SCRUM is designed for teams, we can leverage its key elements for solo development. Sprints will be time-boxed to one week, allowing for quick feedback loops and adjustments. Daily stand-ups will be replaced with a daily Project Activity Log to maintain transparency and track progress.
-
-
 
 ### Development Process Overview
 
