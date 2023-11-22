@@ -4,7 +4,11 @@
 2. [Key Features](#key-features)
 3. [Target Audience](#target-audiences)
 4. [Tech Stack](#tech-stack)
-5. [Project Development Process](#project-development-process)
+5. [User Stories]
+6. [Data Flow Diagrams](#data-flow-diagram)
+7. [Application Architecture Diagram]
+8. [Wireframes]
+9. [Project Development Process](#project-development-process)
 
 
 ## Project Description:
@@ -92,6 +96,27 @@ With the sub.club web app, subletters are able to:
 
 9. **User Authentication:**
    - **Firebase Authentication:** A service provided by Firebase that simplifies the process of authenticating users in your application. It supports various authentication methods, including email/password, social logins, and more. 
+
+
+
+## Data Flow Diagrams
+
+
+***Data Flow Diagram Level 0***
+
+![DFD-Level-0](./readme-img/DFD-Level-0.drawio.svg)
+
+
+
+***Detail Data Flow Diagram***
+
+![DFD-SubClub](./readme-img/DFD-SubClub.drawio.svg)
+
+
+
+Explanation:
+
+The above diagram represent the process within the app, here a detail explanation of it:
 
 
 
