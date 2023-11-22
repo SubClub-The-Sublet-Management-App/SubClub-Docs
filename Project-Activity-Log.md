@@ -145,3 +145,15 @@ No change on the main board only on the card that I am working on.
 * Review and refine the description of the third parties services to used on the project.(35)
 * Create a draft of the Application Architecture Diagram (30)
 * Divide the activity of develop the wireframe (31) into small task.
+
+
+**Achievements and reflexion of the day:**
+
+Today was a productive day I have finally finished with my Data Flow Diagram and identified third party services to use in my project, so now I have to update some of the user stories and the tech stack description. 
+
+This activity has helped me a lot to refine the scope of my project, unfortunately the time for the development of the application is short, so I will move some of the features I would like to implement as "Nice to have" and focus on the minimum viable product implementation.
+
+**End of the day Trello board**
+
+![Trello board of day 7](./Trello-screenshots/Day-7.png)
+
