@@ -4,9 +4,9 @@
 2. [Key Features](#key-features)
 3. [Target Audience](#target-audiences)
 4. [Tech Stack](#tech-stack)
-5. [User Stories]
+5. [User Stories](#user-stories)
 6. [Data Flow Diagrams](#data-flow-diagram)
-7. [Application Architecture Diagram]
+7. [Application Architecture Diagram](#application-architecture-diagram)
 8. [Wireframes]
 9. [Project Development Process](#project-development-process)
 
@@ -194,8 +194,7 @@ AS A first time Lister,
 
 ## Application Architecture Diagram
 
-
-
+![AAD-SubClub](./readme-img/AAD.jpg)
 
 
 ## Tech Stack
