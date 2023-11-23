@@ -157,3 +157,14 @@ This activity has helped me a lot to refine the scope of my project, unfortunate
 
 ![Trello board of day 7](./Trello-screenshots/Day-7.png)
 
+
+
+## Day 8
+
+#### Date: Thu 23 Nov 2023
+
+**Goals:**
+
+* Create and document the Architecture Application Diagram (30)
+* Review and refine the description of the third parties services and the user stories to adapt to the project scope.
+
