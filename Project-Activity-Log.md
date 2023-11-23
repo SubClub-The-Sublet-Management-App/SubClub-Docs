@@ -168,3 +168,12 @@ This activity has helped me a lot to refine the scope of my project, unfortunate
 * Create and document the Architecture Application Diagram (30)
 * Review and refine the description of the third parties services and the user stories to adapt to the project scope.
 
+
+**Achievements and reflexion of the day:**
+
+I finally finished with the diagrams, I still need to work on the review and refine the description of the third parties services before starting with the wireframes.
+
+**End of the day Trello board**
+
+![Trello board of day 8](./Trello-screenshots/Day-8.png)
+
