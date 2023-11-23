@@ -4,9 +4,9 @@
 2. [Key Features](#key-features)
 3. [Target Audience](#target-audiences)
 4. [Tech Stack](#tech-stack)
-5. [User Stories]
+5. [User Stories](#user-stories)
 6. [Data Flow Diagrams](#data-flow-diagram)
-7. [Application Architecture Diagram]
+7. [Application Architecture Diagram](#application-architecture-diagram)
 8. [Wireframes]
 9. [Project Development Process](#project-development-process)
 
@@ -101,15 +101,15 @@ The Minimum Viable Product (MVP) to be developed will focus on delivering value 
 
 **Persona 1**
 
-![persona-1 Alice](./img/persona-1-Alice.png)
+![persona-1 Alice](./readme-img/persona-1-Alice.png)
 
 **Persona 2**
 
-![persona-2 Danny and Fanny](./img/persona-2-Danny-and-Fanny.png)
+![persona-2 Danny and Fanny](./readme-img/persona-2-Danny-and-Fanny.png)
 
 **Persona 3**
 
-![persona-3-Thomas](./img/persona-3-Thomas.png)
+![persona-3-Thomas](./readme-img/persona-3-Thomas.png)
 
 
 ### User Stories
@@ -190,6 +190,11 @@ AS A first time Lister,
 
 ![DFD-SubClub](./readme-img/DFD-SubClub.drawio.svg)
 
+
+
+## Application Architecture Diagram
+
+![AAD-SubClub](./readme-img/AAD.jpg)
 
 
 ## Tech Stack
