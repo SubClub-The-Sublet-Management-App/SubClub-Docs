@@ -133,14 +133,14 @@ AS A LISTER,
 ```
 
 
-**User story after its iteration:**
+**User stories after iteration:**
 
 
 *User Story 1: CREATE ROOM ON RENT*
 
 ```
 AS LISTER
-    I WANT to document in detail of the room I have for rent, 
+    I WANT to document in detail of the room I have for rent 
         SO THAT I don't forget any of the features that make the room unique and desirable for potential occupants (tenants).
 ```
 
@@ -148,7 +148,7 @@ AS LISTER
 
 ```
 AS A LISTER
-    I WANT to be able to document the improvements I make to the room on rent,  
+    I WANT to be able to document the improvements I make to the room on rent  
         SO THAT I can share update information about the room when I need it.  
 ```
 
@@ -156,11 +156,11 @@ AS A LISTER
 
 ```
 AS A lister,
-    I WANT to view information of rooms that I have on rent,
+    I WANT to view information of rooms that I have on rent
         SO THAT when potential tenants asks me about the room details I can provide accurate and correct information.
 ```
         
-*User Story 4: VIEW ROOMS*
+*User Story 4: VIEW ROOMS(BOOKING DATES)*
 
 ```
 AS A lister,
@@ -168,22 +168,20 @@ AS A lister,
         SO THAT I can avoid overbooking rooms.
 ```
 
-*User Story 5: DELETE DOCUMENTED ROOM*
+*User Story 5: DELETE ROOM*
 
 ```
 AS A LISTER
-    I WANT to be able to delete my room information when I not longer want  to rent it, 
+    I WANT to be able to delete my room information when I not longer want  to rent it 
 SO THAT I can know that I have control over my personal information
 ```
 
 
 
-#### IDEA 2: 
+#### **IDEA 2: Occupant Profile creation**
 
 
-
-
-**User Story 2: TENANT PROFILE CREATION AND UPDATE**
+**Initial user story:**
 
 ```
 AS A Lister,
@@ -192,43 +190,126 @@ AS A Lister,
 ```
 
 
-**User Story 3: CREATION OF ELECTRONIC PAYMENT RECEIPTS**
-```
-AS A Lister,
-    I WANT to be able to create and send electronics payment receipts
-        SO THAT I can have peace of mind when I am away from home.
-```
+**User stories after iteration:**
 
 
-**User Story 4: CREATION AND VIEW OF PAYMENT RECORD**
+*User Story 6: CREATE OCCUPANT PROFILE*
 
 ```
 AS A Lister,
-    I WANT to track the income I receive for the rent of my extra bedrooms
-        SO THAT I can save time when doing my taxes.
+    I WANT TO create occupant profile
+        SO THAT I document important information about the person that will live with me, for my safety and in case of any emergency.
 ```
 
-**User Story 5: CREATE AND ASSIGN ROOMS**
+*User Story 7: UPDATE OCCUPANT PROFILE*
 ```
-AS A LISTER,
-    I WANT to create customised room descriptions 
-        SO THAT I can accurately assign tenants to them.
+AS A Lister,
+    I WANT to be able to update the occupant (tenant) profile information
+        SO THAT in case I make a mistake during the creation of the occupant profile I can quickly correct my mistake without starting from scratch.
+```
+
+*User Story 8: UPDATE OCCUPANT PROFILE*
+```
+AS A Lister,
+    I WANT to be able to update the occupant (tenant) profile information
+        SO THAT all relevant information such as email, phone number and emergency contact is always up to date.
+```
+
+*User Story 9: DELETE OCCUPANT PROFILE*
+
+```
+AS A Lister,
+    I WANT to delete occupants profile, when there is an End of Rental Agreement
+        SO THAT I don't keep any sensitive information when I not longer need them.
 ```
 
 
+#### **IDEA 3: Room Assigment and Rental Agreement Generation**
 
-**User Story 7: AUTOMATIC PAYMENT RECEIPT GENERATION**
+**Initial user story:**
+
+```
+AS A Lister,
+    I WANT to be able to create rental agreements 
+        SO THAT I can clearly communicate what is included in the sublet agreement.
+```
+
+
+**User stories after iteration:**
+
+*User Story 10: ROOM ASSIGNMENT*
+
+```
+AS A Lister,
+    I WANT to be able to assign rooms to occupants now and in advance,
+        SO THAT I can know which occupant moves to which room and when they move in.
+```
+
+*User Story 11: RENTAL AGREEMENT GENERATION*
+
+```
+AS A Lister,
+    I WANT to automatically generate a rental agreement  after create a room assigment
+        SO THAT I don't have to spend too much time drafting contracts manually every time there is a new occupant in the room.
+```
+
+*User Story 12: UPDATE ROOM ASSIGNMENT*
+
+```
+AS A Lister,
+    I WANT to be able to change the details of the rental agreement or the room that has been assigned to an occupant (tenant)
+        SO THAT I keep up to date with changes in the rental situation.
+```
+
+*User Story 13: CANCEL RENTAL AGREEMENT*
+
+```
+AS A Lister,
+    I WANT to be able to cancel rental agreements if things don't work out with the occupants,
+        SO THAT I can assign the room to another occupants (tenant).
+```
+
+*User Story 14: VIEW RENTAL AGREEMENT*
+
+```
+AS A Lister,
+    I WANT to view rental agreement details,
+        SO THAT I can review agreement conditions when I need it.
+```
+
+
+#### **IDEA 4: Payment Receipts Generation**
+
+The following user stories are part of the initial set of user stories, they will not be replaced by new user stories. A new user story has been added to complement the features that are intended to be developed for the application.
+
+**Initial user stories:**
+
+
+*User Story 15: CREATION OF ELECTRONIC PAYMENT RECEIPTS*
+
 ```
 AS A lister,
     I WANT a payment receipt to be generated automatically
         SO THAT I can have more free time to spend on personal matters.
 ```
 
-**User Story 8: SUBLET CONTRACT GENERATION**
+*User Story 16: VIEW PAYMENT RECORD*
+
 ```
-AS A first time Lister,
-    I WANT to be able to create subletting contracts 
-        SO THAT I can clearly communicate what is included in the sublet agreement.
+AS A Lister,
+    I WANT to track the income I receive for the rent of my extra rooms
+        SO THAT I can save time when doing my taxes.
+```
+
+
+**Add user story:**
+
+*User Story 17: CANCEL PAYMENT RECORD*
+
+```
+AS A Lister,
+      I WANT to cancel the payment records if they have any errors in them
+        SO THAT I only have accurate information about the payments I have received.
 ```
 
 
