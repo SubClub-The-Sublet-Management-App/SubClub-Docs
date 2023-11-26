@@ -101,26 +101,87 @@ The Minimum Viable Product (MVP) to be developed will focus on delivering value 
 
 **Persona 1**
 
-![persona-1 Alice](./readme-img/persona-1-Alice.png)
+![persona-1 Alice](./readme-img/Persona1-Alice.png)
 
 **Persona 2**
 
-![persona-2 Danny and Fanny](./readme-img/persona-2-Danny-and-Fanny.png)
+![persona-2 Danny and Fanny](./readme-img/Persona2-DannyAndFanny.png)
 
 **Persona 3**
 
-![persona-3-Thomas](./readme-img/persona-3-Thomas.png)
+![persona-3-Thomas](./readme-img/Persona3-Thomas.png)
 
 
 ### User Stories
 
-**User Story 1: PAYMENT DATE REMINDERS**
+
+### User Stories
+
+The following user stories have gone through several iterations, starting with a very broad idea, which have been converted into defined features that will help us in the development of the application.
+
+
+
+#### **IDEA 1.  Create and Assign rooms** 
+
+
+**Initial user story:**
 
 ```
-AS A Lister,
-   I WANT to be reminded of payment dates
-      SO THAT I can follow up receiving payments with my Tenants.
+AS A LISTER,
+    I WANT to create customised room descriptions
+        SO THAT I can accurately assign tenants to them.
 ```
+
+
+**User story after its iteration:**
+
+
+*User Story 1: CREATE ROOM ON RENT*
+
+```
+AS LISTER
+    I WANT to document in detail of the room I have for rent, 
+        SO THAT I don't forget any of the features that make the room unique and desirable for potential occupants (tenants).
+```
+
+*User Story 2: UPDATE ROOM ON RENT*
+
+```
+AS A LISTER
+    I WANT to be able to document the improvements I make to the room on rent,  
+        SO THAT I can share update information about the room when I need it.  
+```
+
+*User Story 3: VIEW ROOMS*
+
+```
+AS A lister,
+    I WANT to view information of rooms that I have on rent,
+        SO THAT when potential tenants asks me about the room details I can provide accurate and correct information.
+```
+        
+*User Story 4: VIEW ROOMS*
+
+```
+AS A lister,
+    I WANT to view the dates a room is available and occupied 
+        SO THAT I can avoid overbooking rooms.
+```
+
+*User Story 5: DELETE DOCUMENTED ROOM*
+
+```
+AS A LISTER
+    I WANT to be able to delete my room information when I not longer want  to rent it, 
+SO THAT I can know that I have control over my personal information
+```
+
+
+
+#### IDEA 2: 
+
+
+
 
 **User Story 2: TENANT PROFILE CREATION AND UPDATE**
 
@@ -154,13 +215,7 @@ AS A LISTER,
         SO THAT I can accurately assign tenants to them.
 ```
 
-**User Story 6: VIEW CREATED ROOMS**
 
-```
-AS A lister,
-    I WANT to view information of bedrooms and the dates that the are available and occupied
-        SO THAT I can avoid overbooking rooms.
-```
 
 **User Story 7: AUTOMATIC PAYMENT RECEIPT GENERATION**
 ```
