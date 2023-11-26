@@ -318,19 +318,19 @@ AS A Lister,
 
 ***Data Flow Diagram Level 0***
 
-![DFD-Level-0](./readme-img/DFD-Level-0.drawio.svg)
+![DFD-Level-0](./readme-img/DFD-SubClub-Level-0.jpg)
 
 
 
 ***Detail Data Flow Diagram***
 
-![DFD-SubClub](./readme-img/DFD-SubClub.drawio.svg)
+![DFD-SubClub](./readme-img/DFD-SubClub.jpeg)
 
 
 
 ## Application Architecture Diagram
 
-![AAD-SubClub](./readme-img/AAD.jpg)
+![AAD-SubClub](./readme-img/AAD-SubClub.jpg)
 
 
 ## Tech Stack
