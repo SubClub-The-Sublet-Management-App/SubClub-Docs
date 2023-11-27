@@ -189,4 +189,12 @@ I finally finished with the diagrams, I still need to work on the review and ref
 * Gather inspiration for the design of the web application.
 
 
+**Achievements and reflexion of the day:**
 
+Today has been a very productive day, so far I have finished refining the diagrams and user stories. I have achieved my goals for today and have gone a step further by scratching the design of my web application on paper. Timing is crucial at this point, I want to spend enough time on my wireframes, and have time to make the necessary iterations and changes to deliver a good Minimum Viable Product.
+
+In the screenshot of the trello board you can see the last card of my backload (not including the project development documentation) which is the creation of the wireframes on figma, this has been divided into small activities for better tracking of each activity that involves the development of the design of the application.
+
+**End of the day Trello board**
+
+![Trello board of day 9](./Trello-screenshots/Day-9.png)
