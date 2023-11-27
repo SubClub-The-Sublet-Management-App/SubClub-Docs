@@ -432,6 +432,7 @@ AS A Lister,
             "share bathroom" 
         ],
         rental_payment:184.58,
+        payment_day: "Monday",
         rental_payment_frequency: "Weekly",
         security_deposit: 800.00,
     },
