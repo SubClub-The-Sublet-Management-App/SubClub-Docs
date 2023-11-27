@@ -198,3 +198,13 @@ In the screenshot of the trello board you can see the last card of my backload (
 **End of the day Trello board**
 
 ![Trello board of day 9](./Trello-screenshots/Day-9.png)
+
+
+## Day 10
+
+#### Date: Tue 28 Nov 2023
+
+**Goals:**
+
+* Create the interface of the Login / Sign in feature of the app for small, medium and big devices.
+* Create the HOME page view for small, medium and big devices. 
