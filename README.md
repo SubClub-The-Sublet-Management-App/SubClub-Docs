@@ -326,6 +326,153 @@ AS A Lister,
 
 ![DFD-SubClub](./readme-img/DFD-SubClub.jpeg)
 
+### Payload examples
+
+#### User document
+```js
+{
+  _id: ObjectId("5f8b55632a1a9a001dcd4db1"),
+  name: "John Smith",
+  email: "john.smith@gmail.com",
+  password: "hashed_password", 
+  phone_number: "+434111222",
+  address: {
+    street: "Main Street",
+    city: "Melbourne",
+    post_code: "12345",
+    state: "Victoria"
+  }
+}
+```
+
+
+#### Room document
+
+```js
+{
+  _id: ObjectId("5f9e8bb66382a07d7c218d5a"),
+  name: "The Sun's Kiss",
+  monthly_rental_price: 200.00,
+  description: "Large and bright room of 5x4 meters. Wooden floor, freshly painted walls, spacious wardrobe, and two large windows overlooking the garden, allowing the entry of morning light.",
+  content: [
+    "Mini-split system with heating and cooling",
+    "2 sets of blackout curtains",
+    "Desk and desk chair",
+    "Bed frame and mattress",
+    "New full-length mirror",
+    "Brand new 190 x 220 cm beige-colored rug"
+  ]
+}
+```
+
+#### Occupant document
+
+```js
+{
+  _id: ObjectId("7a8b9c632a1a9a001dcd4333"),
+  name: "Isabelle Thompson",
+  email: "isa.thompson@example.com", 
+  phone_number: "+678912345",
+  dob: ISODate("1990-01-01"), // Date Of Birth
+  occupation: "student",
+  emergency_contact: {
+    contact_person_name: "John Doe",
+    phone_number: "+483259384",
+    relationship: "brother",
+    email: "john.doe@example.com" 
+  },
+  references: {
+    reference_one: {
+      person_name: "Mr. Thomas Castello",
+      phone_number: "+455666777",
+      relation: "friend since childhood"
+    },
+    reference_two: {
+      person_name: "Miss. Jane Brown",
+      phone_number: "+434998811",
+      relation: "manager at her last job"
+    }
+  }
+}
+```
+
+
+#### Room Assigment document
+
+```js
+{
+    _id: ObjectId("5f9e8bb66382a07d7c218d5b"),  
+
+    // Room details
+    room: {
+        room_id: ObjectId("5f9e8bb66382a07d7c218d5a"),  // Reference to the Room document
+        name: "The sun's kiss",
+        monthly_rental_price: 800.00,
+    },
+
+    // Occupant details
+    occupant: {
+        occupant_id: ObjectId("7a8b9c632a1a9a001dcd4333"),  // Reference to the Occupant document
+        name: "Isabelle Thompson",
+        email: "isa_thompson",
+        phone_number: "+678912345",
+    },
+
+    // Agreement details
+    agreement: {
+        start_date: ISODate("2023-011-01T00:00:00Z"),  
+        end_date: ISODate("2024-03-31T23:59:59Z"),  
+        rent_inclusions:[
+            "furnish room",
+            "utilities",
+            "parking",
+            "laundry service"
+            "share kitchen area",
+            "share living space", 
+            "share bathroom" 
+        ],
+        rental_payment:184.58,
+        rental_payment_frequency: "Weekly",
+        security_deposit: 800.00,
+    },
+    rental_agreement_status: "Active"
+}
+
+```
+
+#### Payment document
+```js
+{
+    _id: ObjectId("7f8e9cb66345a07d7c218d7c"),  
+    payment_type: "Cash", 
+    amount_paid: 184.58,
+    payment_receipt: {
+        receipt_number: "REC123456", 
+        receipt_issue_date: ISODate("2023-11-27T18:59:59Z"),  
+    }
+
+    // Room Assignment information
+    room_assignment: {
+        room_assignment_id: ObjectId("5f9e8bb66382a07d7c218d5b"),  // Reference to the Room Assignment document
+        occupant_name: "Isabelle Thompson",
+        room_name: "The Sun's Kiss",
+        rent_inclusions: [
+            "furnish room",
+            "utilities",
+            "parking",
+            "laundry service",
+            "share kitchen area",
+            "share living space",
+            "share bathroom"
+        ],
+        rental_payment: 184.58,
+        rental_payment_frequency: "Weekly",
+    },
+    receipt_status: "Active"
+}
+
+```
+
 
 
 ## Application Architecture Diagram
