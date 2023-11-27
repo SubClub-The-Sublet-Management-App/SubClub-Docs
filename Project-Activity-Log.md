@@ -177,3 +177,16 @@ I finally finished with the diagrams, I still need to work on the review and ref
 
 ![Trello board of day 8](./Trello-screenshots/Day-8.png)
 
+
+## Day 9
+
+#### Date: Mon 27 Nov 2023
+
+**Goals:**
+
+* Refine the user stories according to the characteristics of the application.
+* Add payload examples to help better understand the DFD.
+* Gather inspiration for the design of the web application.
+
+
+
