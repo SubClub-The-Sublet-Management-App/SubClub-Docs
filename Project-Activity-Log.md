@@ -208,3 +208,11 @@ In the screenshot of the trello board you can see the last card of my backload (
 
 * Create the interface of the Login / Sign in feature of the app for small, medium and big devices.
 * Create the HOME page view for small, medium and big devices. 
+
+**Achievements and reflexion of the day:**
+
+Today I reflected a lot on my original designs, and what I want to reflect with the look and feel of the application, although I didn't meet my goals for today, I feel it was a productive day because I started by choosing the colour palette, typography and logo.
+
+I have added these activities that I didn't foresee initially on my todo list.
+
+![Trello board of day 10](./Trello-screenshots/Day-10.png)
