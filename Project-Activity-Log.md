@@ -216,3 +216,13 @@ Today I reflected a lot on my original designs, and what I want to reflect with 
 I have added these activities that I didn't foresee initially on my todo list.
 
 ![Trello board of day 10](./Trello-screenshots/Day-10.png)
+
+
+## Day 11
+
+#### Date: Sat 02 Dec 2023
+
+**Goals:**
+
+Given the time, my goal today is to outline all the components and elements on each of the pages for the diffirent screen sizes, in order to obtain medium fidelity wireframes. So I can focus on colours and other small details tomorrow.
+
