@@ -226,3 +226,14 @@ I have added these activities that I didn't foresee initially on my todo list.
 
 Given the time, my goal today is to outline all the components and elements on each of the pages for the diffirent screen sizes, in order to obtain medium fidelity wireframes. So I can focus on colours and other small details tomorrow.
 
+**Achievements and reflexion of the day:**
+
+So far I have finished 4 of the 7 pages that I was expected to do.
+However, I am relieved that I have found a way to create my wireframes:
+1. First I write down the components I want the page to have.
+2. I assign a section of the view where I want the component to be.
+3. I add titles, buttons, and any other elements in their place.
+4. I make sure the elements are equally spaced.
+5. I add the colours, fonts and other things to make the page looks good.
+
+![Trello board of day 11](./Trello-screenshots/Day-11.png)
