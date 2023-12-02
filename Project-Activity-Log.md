@@ -237,3 +237,20 @@ However, I am relieved that I have found a way to create my wireframes:
 5. I add the colours, fonts and other things to make the page looks good.
 
 ![Trello board of day 11](./Trello-screenshots/Day-11.png)
+
+
+
+## Day 12
+
+#### Date: Sun 03 Dec 2023
+
+**Goals:**
+
+To finished this last part A of the project (Documentation) I have a few tasks to do:
+
+1. Create the wireframes for monitor and phone views for the pages: Room Assignments and Payments 
+
+2. Define user flows 
+
+3. Finally document my designs on the project README
+
