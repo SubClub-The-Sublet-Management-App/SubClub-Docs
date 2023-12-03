@@ -254,3 +254,12 @@ To finished this last part A of the project (Documentation) I have a few tasks t
 
 3. Finally document my designs on the project README
 
+**Achievements and reflexion of the day:**
+
+Yeeey! I finally finished the documentation of my project.
+I have merged my Wireframe branch to the main branch with not problems.
+
+Tomorrow I will start with the planning of the project start-up. I have left the card *"Daily Screenshots of Project Trello board and Project Activity Log (32) "* on the Trello board as I plan to continue documenting the development process of this project in this same document.
+
+![Trello board of day 12](./Trello-screenshots/Day-12.png)
+
