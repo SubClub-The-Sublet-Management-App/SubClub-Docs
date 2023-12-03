@@ -1,15 +1,16 @@
 # Project: SubClub - The Sublet Management App
 
 1. [Project Description](#project-description)
-2. [Key Features](#key-features)
-3. [Target Audience](#target-audiences)
-4. [Tech Stack](#tech-stack)
-5. [User Stories](#user-stories)
-6. [Data Flow Diagrams](#data-flow-diagram)
-7. [Application Architecture Diagram](#application-architecture-diagram)
-8. [Wireframes- Desktop](#wireframes-for-desktop)
-9. [Wireframes- Mobile](#wireframes-for-mobile)
-10. [Project Development Process](#project-development-process)
+1. [Key Features](#key-features)
+1. [Target Audience](#target-audience)
+1. [Tech Stack](#tech-stack)
+1. [User Personas](#user-personas)
+1. [User Stories](#user-stories)
+1. [Data Flow Diagrams](#data-flow-diagrams)
+1. [Application Architecture Diagram](#application-architecture-diagram)
+1. [Wireframes- Desktop](#wireframes-for-desktop)
+1. [Wireframes- Mobile](#wireframes-for-mobile)
+1. [Project Development Process](#project-development-process)
 
 
 ## Project Description:
@@ -585,22 +586,6 @@ AS A Lister,
 #### Payments page - Add new Payment record
 ![Mobile - Payments Page - Add new Payment record](./readme-img/Mobile%20-%20New%20Payment.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Tech Stack
 
 1. **Backend:**
@@ -663,7 +648,7 @@ I will use a Trello board to represent the product backlog, with each card repre
 
 **2. Project Activity Log:**
     
-A Project Activity Log in Markdown format will be maintained to track daily progress. It will include the following information:
+A **[Project Activity Log](./Project-Activity-Log.md)** in Markdown format will be maintained to track daily progress. It will include the following information:
 
 * **Dates:** Each day's date will be recorded for chronological tracking.
 * **Goals and Achievements:** A brief summary of the goals set for the day and the accomplishments achieved.
