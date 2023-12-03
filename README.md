@@ -7,8 +7,9 @@
 5. [User Stories](#user-stories)
 6. [Data Flow Diagrams](#data-flow-diagram)
 7. [Application Architecture Diagram](#application-architecture-diagram)
-8. [Wireframes]
-9. [Project Development Process](#project-development-process)
+8. [Wireframes- Desktop](#wireframes-for-desktop)
+9. [Wireframes- Mobile](#wireframes-for-mobile)
+10. [Project Development Process](#project-development-process)
 
 
 ## Project Description:
@@ -332,14 +333,17 @@ AS A Lister,
 ```js
 {
   _id: ObjectId("5f8b55632a1a9a001dcd4db1"),
-  name: "John Smith",
-  email: "john.smith@gmail.com",
+  first_name: "John",
+  last_name: "Snow",
+  dob: ISODate("1990-02-28"), // Date Of Birth
+  email: "john.snow@mail.com",
   password: "hashed_password", 
   phone_number: "+434111222",
   address: {
     street: "Main Street",
+    number: 123,
     city: "Melbourne",
-    post_code: "12345",
+    post_code: "3000",
     state: "Victoria"
   }
 }
@@ -370,28 +374,23 @@ AS A Lister,
 ```js
 {
   _id: ObjectId("7a8b9c632a1a9a001dcd4333"),
-  name: "Isabelle Thompson",
+  first_name: "Isabelle",
+  last_name: "Thompson",
   email: "isa.thompson@example.com", 
   phone_number: "+678912345",
   dob: ISODate("1990-01-01"), // Date Of Birth
   occupation: "student",
   emergency_contact: {
-    contact_person_name: "John Doe",
+    first_name: "John",
+    last_name: "Doe",
     phone_number: "+483259384",
     relationship: "brother",
     email: "john.doe@example.com" 
   },
-  references: {
-    reference_one: {
+  reference: {
       person_name: "Mr. Thomas Castello",
       phone_number: "+455666777",
-      relation: "friend since childhood"
-    },
-    reference_two: {
-      person_name: "Miss. Jane Brown",
-      phone_number: "+434998811",
-      relation: "manager at her last job"
-    }
+      relationship: "friend since childhood"
   }
 }
 ```
@@ -475,9 +474,131 @@ AS A Lister,
 
 
 
+
 ## Application Architecture Diagram
 
 ![AAD-SubClub](./readme-img/AAD-SubClub.jpg)
+
+
+## Wireframes for Desktop
+
+
+#### Sign up page
+![Signup Page](./readme-img/Desktop%20-%20Sign%20Up.png)
+
+
+#### Login page
+![Login Page](./readme-img/Desktop%20-%20LogIn.png)
+
+
+#### Landing page
+
+![Landing Page](./readme-img/Desktop%20-%20Landing%20page.png)
+
+
+#### User profile page
+
+![User profile Page](./readme-img/Desktop%20-%20Profile%20page.png)
+
+
+#### Rooms page
+
+![Rooms Page](./readme-img/Desktop%20-%20Rooms%20page.png)
+
+#### Rooms page - Add new room
+
+![Rooms Page - Add new room](./readme-img/Desktop%20-%20Add%20new%20room.png)
+
+
+#### Room Assignments page
+![Assignment Page](./readme-img/Desktop%20-%20Assigments%20page.png)
+
+
+#### Room Assignments page - Add new Assignment
+![Assignment Page - Add new Assignment](./readme-img/Desktop%20-%20New%20Assignment.png)
+
+#### Occupants page
+![Occupants Page](./readme-img/Desktop%20-%20Occupants%20page.png)
+
+
+#### Occupants page - Add new Occupant
+![Occupants Page - Add new Occupant](./readme-img/Desktop%20-%20Add%20new%20occupant.png)
+
+
+#### Payments page
+![Payments Page](./readme-img/Desktop%20-%20Payments%20page.png)
+
+
+#### Payments page - Add new Payment record
+![Payments Page - Add new Payment record](./readme-img/Desktop%20-%20New%20Payment.png)
+
+
+## Wireframes for Mobile
+
+
+#### Sign up page
+![Mobile - Signup Page](./readme-img/Mobile%20-%20Sign%20Up.png)
+
+
+#### Login page
+![Mobile - Login Page](./readme-img/Mobile%20-%20LogIn.png)
+
+
+#### Landing page
+
+![Mobile - Landing Page](./readme-img/Mobile%20-%20Landing%20page%20.png)
+
+
+#### User profile page
+
+![Mobile - User profile Page](./readme-img/Mobile%20-%20Profile%20page.png)
+
+
+#### Rooms page
+
+![Mobile - Rooms Page](./readme-img/Mobile%20-%20Rooms%20page.png)
+
+#### Rooms page - Add new room
+
+![Mobile - Rooms Page - Add new room](./readme-img/Mobile%20-%20Add%20new%20room.png)
+
+
+#### Room Assignments page
+![Mobile - Assignment Page](./readme-img/Mobile%20-Assigments%20page.png)
+
+
+#### Room Assignments page - Add new Assignment
+![Mobile - Assignment Page - Add new Assignment](./readme-img/Mobile%20-%20New%20Assignment.png)
+
+#### Occupants page
+![Mobile -Occupants Page](./readme-img/Mobile%20-%20Occupants%20page.png)
+
+
+#### Occupants page - Add new Occupant
+![Mobile - Occupants Page - Add new Occupant](./readme-img/Mobile%20-%20Add%20new%20occupant.png)
+
+
+#### Payments page
+![Mobile - Payments Page](./readme-img/Mobile%20-%20Payments%20page.png)
+
+
+#### Payments page - Add new Payment record
+![Mobile - Payments Page - Add new Payment record](./readme-img/Mobile%20-%20New%20Payment.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Tech Stack
