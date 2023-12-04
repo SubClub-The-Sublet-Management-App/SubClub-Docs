@@ -7,7 +7,10 @@ In this log you will find the date, the daily goals and a summary of what has be
 This activity log is not only a tool for personal accountability, but also a valuable resource for self-assessment and future planning.
 
 ## Day 1
-
+* Create a very detailed plan of the task I need to develop to build this project.
+* Create the corresponding repository for the backend on gitHub.
+* Create the corresponding repository for the frontend on github.
+* Read about how to design and document the endpoints of the project. Create what is known as the API Contract.
 #### Date: Thu 16 Nov 2023
 
 We start our solo full stack Project!
@@ -262,4 +265,16 @@ I have merged my Wireframe branch to the main branch with not problems.
 Tomorrow I will start with the planning of the project start-up. I have left the card *"Daily Screenshots of Project Trello board and Project Activity Log (32) "* on the Trello board as I plan to continue documenting the development process of this project in this same document.
 
 ![Trello board of day 12](./Trello-screenshots/Day-12.png)
+
+
+## Day 13
+
+#### Date: Mon 04 Dec 2023
+
+**Goals:**
+
+* Create a very detail plan of the task need it to develop to build this project.
+* Create the corresponding repository for the backend on gitHub
+* Create the corresponding repository for the frontend on github
+* Read about how to design and document the project end-points. To create what is known as the API Contract.
 
