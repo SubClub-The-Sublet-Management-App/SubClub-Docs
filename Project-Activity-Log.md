@@ -278,3 +278,15 @@ Tomorrow I will start with the planning of the project start-up. I have left the
 * Create the corresponding repository for the frontend on github
 * Read about how to design and document the project end-points. To create what is known as the API Contract.
 
+
+**Achievements and reflexion of the day:**
+
+So far I have created the repositories for the backend and frontend. I have also added 17 cards to my Trello board with detailed tasks, starting with the configuration of the backend part of the project and ending with the deployment of the whole project.
+
+This whole project is very challenging given the limited time I have, which is why I plan to work on two or more Trello board cards per day to be able to finished on time.
+
+**Initial Trello board**
+
+![Trello board day-13](./Trello-screenshots/Day-13.png)
+
+
