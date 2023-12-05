@@ -266,6 +266,9 @@ Tomorrow I will start with the planning of the project start-up. I have left the
 
 ![Trello board of day 12](./Trello-screenshots/Day-12.png)
 
+_________________________________________________________________
+
+# PROJECT PART B 
 
 ## Day 13
 
@@ -290,3 +293,20 @@ This whole project is very challenging given the limited time I have, which is w
 ![Trello board day-13](./Trello-screenshots/Day-13.png)
 
 
+## Day 14
+
+#### Date: Wed 06 Dec 2023
+
+**Goals:**
+
+* Start with the backend configuration by creating a node project, install the necessary packages.
+
+* Configure the database by connecting it to MongoDB Atlas, and create the schemas for our collections.
+
+* Create user routes for the collection of users.
+
+* Create CRUD operations for the users.
+
+* Work on fixing the PART-A documentation with feedback from educators.
+
+* Start documenting endpoints and CRUD operations for the project in swager.
