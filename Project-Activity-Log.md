@@ -303,10 +303,26 @@ This whole project is very challenging given the limited time I have, which is w
 
 * Configure the database by connecting it to MongoDB Atlas, and create the schemas for our collections.
 
-* Create user routes for the collection of users.
+* Create user routes for the collection of room.
 
-* Create CRUD operations for the users.
+* Create CRUD operations for the room.
 
 * Work on fixing the PART-A documentation with feedback from educators.
 
 * Start documenting endpoints and CRUD operations for the project in swager.
+
+
+**Achievements and reflexion of the day:**
+
+I have accomplished most of my goal of the day except the last 2 ones.
+
+* Work on fixing the PART-A documentation with feedback from educators.
+
+* Start documenting endpoints and CRUD operations for the project in swager.
+
+Also I have forgot to include the test on Postman of the rooms endpoints. I will include that on my to  do list for tomorrow.
+
+
+
+![Trello board of day 14](./Trello-screenshots/Day-14.png)
+
