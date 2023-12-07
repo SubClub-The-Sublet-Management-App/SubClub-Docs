@@ -303,7 +303,7 @@ This whole project is very challenging given the limited time I have, which is w
 
 * Configure the database by connecting it to MongoDB Atlas, and create the schemas for our collections.
 
-* Create user routes for the collection of room.
+* Create routes for the collection of room.
 
 * Create CRUD operations for the room.
 
@@ -325,4 +325,22 @@ Also I have forgot to include the test on Postman of the rooms endpoints. I will
 
 
 ![Trello board of day 14](./Trello-screenshots/Day-14.png)
+
+
+
+## Day 14
+
+#### Date: Thu 07 Dec 2023
+
+**Goals:**
+
+* Create CRUD operations for users.
+* Create routes for room controllers.
+* Test user routes with Postman.
+* Test room routes with Postman.
+* Create Auht controller for LogIn feature
+
+From yesterday:
+* Work on fixing the PART-A documentation with feedback from educators.
+* Start documenting endpoints and CRUD operations for the project in swager.
 
