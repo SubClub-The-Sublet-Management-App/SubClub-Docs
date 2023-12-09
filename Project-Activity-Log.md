@@ -328,9 +328,9 @@ Also I have forgot to include the test on Postman of the rooms endpoints. I will
 
 
 
-## Day 14
+## Day 15
 
-#### Date: Thu 15 Dec 2023
+#### Date: Thu 07 Dec 2023
 
 **Goals:**
 
@@ -348,4 +348,23 @@ From yesterday:
 **Achievements and reflexion of the day:**
 
 I have set up the authentication and authorisation part of the application, so that each user can create and view its content. I also started to work on correcting part A of the documentation, but that will require more than a single day, so I will bring those tasks as part of my activities for tomorrow.
+
+
+## Day 16
+
+#### Date: Sat 9 Dec 2023
+
+**Goals:**
+
+* Fix occupant schema.
+* Create CRUD operations for occupants.
+* Create routes for occupantscontrollers.
+* Test occupants routes with Postman.
+* Implement- unit test for the develop endpoints
+
+From yesterday:
+* Work on fixing the PART-A documentation with feedback from educators.
+    * DFD 
+    * Add Comments for wireframes for better understanding
+* Start documenting endpoints and CRUD operations for the project in swager.
 
