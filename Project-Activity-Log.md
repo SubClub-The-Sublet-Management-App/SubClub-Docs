@@ -330,7 +330,7 @@ Also I have forgot to include the test on Postman of the rooms endpoints. I will
 
 ## Day 14
 
-#### Date: Thu 07 Dec 2023
+#### Date: Thu 15 Dec 2023
 
 **Goals:**
 
@@ -343,4 +343,9 @@ Also I have forgot to include the test on Postman of the rooms endpoints. I will
 From yesterday:
 * Work on fixing the PART-A documentation with feedback from educators.
 * Start documenting endpoints and CRUD operations for the project in swager.
+
+
+**Achievements and reflexion of the day:**
+
+I have set up the authentication and authorisation part of the application, so that each user can create and view its content. I also started to work on correcting part A of the documentation, but that will require more than a single day, so I will bring those tasks as part of my activities for tomorrow.
 
