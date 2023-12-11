@@ -349,6 +349,7 @@ From yesterday:
 
 I have set up the authentication and authorisation part of the application, so that each user can create and view its content. I also started to work on correcting part A of the documentation, but that will require more than a single day, so I will bring those tasks as part of my activities for tomorrow.
 
+![Trello board of day 15](./Trello-screenshots/Day-15.png)
 
 ## Day 16
 
@@ -358,7 +359,7 @@ I have set up the authentication and authorisation part of the application, so t
 
 * Fix occupant schema.
 * Create CRUD operations for occupants.
-* Create routes for occupantscontrollers.
+* Create routes for occupants controllers.
 * Test occupants routes with Postman.
 * Implement- unit test for the develop endpoints
 
@@ -367,4 +368,10 @@ From yesterday:
     * DFD 
     * Add Comments for wireframes for better understanding
 * Start documenting endpoints and CRUD operations for the project in swager.
+
+**Achievements and reflexion of the day:**
+So far the occupant api is ready and has been tested manually in postman. I have started with the implementation of the unit tests, and the documentation of the endpoints.
+
+![Trello board of day 16](./Trello-screenshots/Day-16.png)
+
 
