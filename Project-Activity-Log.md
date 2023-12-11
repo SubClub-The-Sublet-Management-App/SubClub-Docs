@@ -374,4 +374,20 @@ So far the occupant api is ready and has been tested manually in postman. I have
 
 ![Trello board of day 16](./Trello-screenshots/Day-16.png)
 
+## Day 17
 
+#### Date: Mon 11 Dec 2023
+
+**Goals:**
+
+* Fix room assigment schema.
+* Create CRUD operations for room assigment.
+* Create routes for room assigment controllers.
+* Test room assigment routes with Postman.
+* Implement- unit test for the develop endpoints
+
+On-going 
+* Work on fixing the PART-A documentation with feedback from educators.
+    * DFD 
+    * Add Comments for wireframes for better understanding
+* Continue documenting endpoints and CRUD operations for the project in swager.
