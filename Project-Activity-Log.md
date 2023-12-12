@@ -408,3 +408,15 @@ And here is how the trello board is looking at the end of the day.
 
 ![Trello board of day 17](./Trello-screenshots/Day-17.png)
 
+## Day 18
+
+#### Date: Tues 12 Dec 2023
+
+**Goals:**
+
+* Fix payment record schema.
+* Create CRUD operations for payment record.
+* Create routes for payment record controllers.
+* Test payment record routes with Postman.
+* Implement- unit test for the develop endpoints
+
