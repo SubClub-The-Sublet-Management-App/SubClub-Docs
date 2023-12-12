@@ -391,3 +391,20 @@ On-going
     * DFD 
     * Add Comments for wireframes for better understanding
 * Continue documenting endpoints and CRUD operations for the project in swager.
+
+
+**Achievements and reflexion of the day:**
+I've made a lot of progress with the unit testing of the models, I still need to test the routes and controllers.
+I have completed the room allocation management API, and tested them with postman.
+
+I have put the PART-A fix on hold as my priority is to get the backend up and running so I can start working on the frontend.
+
+Below is a screenshot of the to-do list of the unit test task.
+
+![Trello board of day 17](./Trello-screenshots/Day-17-unit-test-tasks.png)
+
+
+And here is how the trello board is looking at the end of the day.
+
+![Trello board of day 17](./Trello-screenshots/Day-17.png)
+
