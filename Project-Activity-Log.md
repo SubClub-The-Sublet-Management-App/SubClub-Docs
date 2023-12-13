@@ -420,3 +420,9 @@ And here is how the trello board is looking at the end of the day.
 * Test payment record routes with Postman.
 * Implement- unit test for the develop endpoints
 
+**Achievements and reflexion of the day:**
+Today has been a very productive day, I have finished the payment records management api as well as testing them with postam.
+
+For unit testing, I just need to create tests for controllers and routes, before I can deploy the backend and start working on the frontend.
+
+![Trello board of day 18](./Trello-screenshots/Day-18.png)
