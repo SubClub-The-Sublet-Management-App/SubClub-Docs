@@ -426,3 +426,15 @@ Today has been a very productive day, I have finished the payment records manage
 For unit testing, I just need to create tests for controllers and routes, before I can deploy the backend and start working on the frontend.
 
 ![Trello board of day 18](./Trello-screenshots/Day-18.png)
+
+
+
+## Day 19
+
+#### Date: Wen 13 Dec 2023
+
+**Goals:**
+* Create unit test for the app controllers and routes.
+* Deploy the backend
+* Fix: user controller and routes, so auth user can view and update profile, and delete their account
+
