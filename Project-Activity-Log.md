@@ -427,8 +427,6 @@ For unit testing, I just need to create tests for controllers and routes, before
 
 ![Trello board of day 18](./Trello-screenshots/Day-18.png)
 
-
-
 ## Day 19
 
 #### Date: Wen 13 Dec 2023
@@ -438,3 +436,10 @@ For unit testing, I just need to create tests for controllers and routes, before
 * Deploy the backend
 * Fix: user controller and routes, so auth user can view and update profile, and delete their account
 
+**Achievements and reflexion of the day:**
+I have deployed my backend!!!!
+From todays goals, I only missing the test for the new user controllers and routes. The testing coverage of the project currently is 73%, I am aiming to have at least 80%.
+
+The trello board looks like this at the on of the day.
+
+![Trello board of day 19](./Trello-screenshots/Day-19.png)
