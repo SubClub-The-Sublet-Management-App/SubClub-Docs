@@ -459,3 +459,19 @@ I create the bases of the project, but I still need to implement the navigation 
 
 ![Trello board of day 20](./Trello-screenshots/Day-20.png)
 
+
+## Day 21
+
+#### Date: Fri 15 Dec 2023
+
+I have re-organised the Trello board and create new card with the left tasks from the other cards, so that when I ready to do them I can create a new branch with the update version of the main branch. Today goals are the following.
+
+**Goals:**
+
+* Create the navigation bar, heading and footer for the app.
+* Link the frontend with the backend for a signup post request.
+* Create user authentication for the sign up
+
+Here is how the re-organise Trello board looks like:
+
+![Trello board of start of the day 21](./Trello-screenshots/Day-21.png)
