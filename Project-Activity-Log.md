@@ -443,3 +443,13 @@ From todays goals, I only missing the test for the new user controllers and rout
 The trello board looks like this at the on of the day.
 
 ![Trello board of day 19](./Trello-screenshots/Day-19.png)
+
+
+## Day 20
+
+#### Date: Thu 14 Dec 2023
+
+**Goals:**
+
+I will give myself a small break to celebrate the and today my only goal will be set up the frontend project.
+
