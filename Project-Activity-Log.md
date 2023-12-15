@@ -453,3 +453,9 @@ The trello board looks like this at the on of the day.
 
 I will give myself a small break to celebrate the and today my only goal will be set up the frontend project.
 
+**Achievements and reflexion of the day:**
+
+I create the bases of the project, but I still need to implement the navigation bar, heading and the footer.
+
+![Trello board of day 20](./Trello-screenshots/Day-20.png)
+
