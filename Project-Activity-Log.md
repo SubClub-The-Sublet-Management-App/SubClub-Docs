@@ -483,3 +483,15 @@ Today I have only managed one of the 3 tasks. It took me a bit of time to get ba
 ![Trello board of day 21-end of the day](./Trello-screenshots/Day-21-end-day.png)
 
 
+
+## Day 22
+
+#### Date: Mon 17 Dec 2023
+
+**Goals:**
+
+* Link the frontend with the backend for a signup post request.
+* Create user authentication for the sign up
+* Implement components  to read, post, update and delete rooms from the room api.
+* implement logic to be able to call room api.
+
