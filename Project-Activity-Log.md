@@ -475,3 +475,11 @@ I have re-organised the Trello board and create new card with the left tasks fro
 Here is how the re-organise Trello board looks like:
 
 ![Trello board of start of the day 21](./Trello-screenshots/Day-21.png)
+
+**Achievements and reflexion of the day:**
+
+Today I have only managed one of the 3 tasks. It took me a bit of time to get back to the basic of the frontend, now I think I can move a bit faster to implement the other components and pages of the project.
+
+![Trello board of day 21-end of the day](./Trello-screenshots/Day-21-end-day.png)
+
+
