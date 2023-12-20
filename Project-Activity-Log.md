@@ -483,7 +483,6 @@ Today I have only managed one of the 3 tasks. It took me a bit of time to get ba
 ![Trello board of day 21-end of the day](./Trello-screenshots/Day-21-end-day.png)
 
 
-
 ## Day 22
 
 #### Date: Mon 17 Dec 2023
@@ -500,3 +499,16 @@ Today I have only managed one of the 3 tasks. It took me a bit of time to get ba
 I have completed the sigup and login pages and they are now conected to the backend. I did some manual testing myself around and verify the functionality of this pages.
 
 ![Trello board of day 22-end of the day](./Trello-screenshots/Day-22.png)
+
+
+## Day 23
+
+#### Date: Tue 18 Dec 2023
+
+**Goals:**
+
+* Create a Room page, and form for the create and update room.
+* Create components that handle  - view, create, update, and delete operation of the Room page.
+
+
+
