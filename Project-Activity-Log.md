@@ -522,6 +522,15 @@ I continue to work on the Rooms page. So far I have been able to get the data an
 **Goals:**
 
 * Finish the Room pages with the full CRUD functionality working.
-* Deploy the frontend
-* Start working on the Occupants page (get and post request)
+* Deploy the frontend.
+* Start working on the Occupants page (get and post request).
 
+
+**Achievements and reflexion of the day:**
+
+Frontend is deployed!!!!! 
+
+The website is looking good!
+Today I have finished all my goals for the day, of course, there is always room for improvement. At this point, timing is crucial, tomorrow will be my last day with the frontend, before I start documenting the second part of my project.
+
+![Trello board of day 24-end of the day](./Trello-screenshots/Day-24.png)
