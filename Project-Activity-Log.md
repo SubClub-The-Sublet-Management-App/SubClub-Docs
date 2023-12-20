@@ -485,7 +485,7 @@ Today I have only managed one of the 3 tasks. It took me a bit of time to get ba
 
 ## Day 22
 
-#### Date: Mon 17 Dec 2023
+#### Date: Mon 18 Dec 2023
 
 **Goals:**
 
@@ -503,7 +503,7 @@ I have completed the sigup and login pages and they are now conected to the back
 
 ## Day 23
 
-#### Date: Tue 18 Dec 2023
+#### Date: Tue 19 Dec 2023
 
 **Goals:**
 
@@ -513,4 +513,15 @@ I have completed the sigup and login pages and they are now conected to the back
 **Achievements and reflexion of the day:**
 
 I continue to work on the Rooms page. So far I have been able to get the data and present the information. Currently, I am working on the functionality of updating the rooms data, but it is taking longer than I expected, so I will continue working on it tomorrow.
+
+
+## Day 24
+
+#### Date: Wen 20 Dec 2023
+
+**Goals:**
+
+* Finish the Room pages with the full CRUD functionality working.
+* Deploy the frontend
+* Start working on the Occupants page (get and post request)
 
