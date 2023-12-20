@@ -534,3 +534,17 @@ The website is looking good!
 Today I have finished all my goals for the day, of course, there is always room for improvement. At this point, timing is crucial, tomorrow will be my last day with the frontend, before I start documenting the second part of my project.
 
 ![Trello board of day 24-end of the day](./Trello-screenshots/Day-24.png)
+
+
+
+## Day 25
+
+#### Date: Thu 21 Dec 2023
+
+**Goals:**
+
+* Work of the Room assigment page, this should be able to show the rooms assign to occupants, and previous assignments.
+* Work on the User profile page, on this page, user should be able to view and update they information such as address phone number and delete their account.
+
+Depent of how much I achieve today, I might considere work on the payment record, otherwise I will start with the documentation of the endpoints and testing.
+
