@@ -470,7 +470,7 @@ I have re-organised the Trello board and create new card with the left tasks fro
 
 * Create the navigation bar, heading and footer for the app.
 * Link the frontend with the backend for a signup post request.
-* Create user authentication for the sign up
+* Create user authentication for the sign up.
 
 Here is how the re-organise Trello board looks like:
 
@@ -491,7 +491,12 @@ Today I have only managed one of the 3 tasks. It took me a bit of time to get ba
 **Goals:**
 
 * Link the frontend with the backend for a signup post request.
-* Create user authentication for the sign up
+* Create user authentication for the login.
 * Implement components  to read, post, update and delete rooms from the room api.
 * implement logic to be able to call room api.
 
+**Achievements and reflexion of the day:**
+
+I have completed the sigup and login pages and they are now conected to the backend. I did some manual testing myself around and verify the functionality of this pages.
+
+![Trello board of day 22-end of the day](./Trello-screenshots/Day-22.png)
