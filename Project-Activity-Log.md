@@ -510,5 +510,7 @@ I have completed the sigup and login pages and they are now conected to the back
 * Create a Room page, and form for the create and update room.
 * Create components that handle  - view, create, update, and delete operation of the Room page.
 
+**Achievements and reflexion of the day:**
 
+I continue to work on the Rooms page. So far I have been able to get the data and present the information. Currently, I am working on the functionality of updating the rooms data, but it is taking longer than I expected, so I will continue working on it tomorrow.
 
