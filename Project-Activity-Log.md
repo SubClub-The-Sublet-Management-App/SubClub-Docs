@@ -548,3 +548,9 @@ Today I have finished all my goals for the day, of course, there is always room 
 
 Depent of how much I achieve today, I might considere work on the payment record, otherwise I will start with the documentation of the endpoints and testing.
 
+**Achievements and reflexion of the day:**
+
+So far I have made the view of the room assignments and the create a new room assignment pages, I have chosen a different layout from what the original layout was.
+I probably need to keep working tomoroow on updating the room assignments.
+
+![Trello board of day 25-end of the day](./Trello-screenshots/Day-25.png)
