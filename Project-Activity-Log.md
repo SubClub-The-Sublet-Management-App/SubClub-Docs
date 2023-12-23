@@ -554,3 +554,14 @@ So far I have made the view of the room assignments and the create a new room as
 I probably need to keep working tomoroow on updating the room assignments.
 
 ![Trello board of day 25-end of the day](./Trello-screenshots/Day-25.png)
+
+
+## Day 26
+
+#### Date: Fri 22 Dec 2023
+
+**Goals:**
+* Finished the update room assignment component and make sure it does sent correctly the patch request
+* implement a cancell botton to change the status of the room assignment from active to cancelled.
+* Improve the style of room assignment page and its components
+
