@@ -551,7 +551,7 @@ Depent of how much I achieve today, I might considere work on the payment record
 **Achievements and reflexion of the day:**
 
 So far I have made the view of the room assignments and the create a new room assignment pages, I have chosen a different layout from what the original layout was.
-I probably need to keep working tomoroow on updating the room assignments.
+I probably need to keep working tomorrow on updating the room assignments.
 
 ![Trello board of day 25-end of the day](./Trello-screenshots/Day-25.png)
 
@@ -564,4 +564,10 @@ I probably need to keep working tomoroow on updating the room assignments.
 * Finished the update room assignment component and make sure it does sent correctly the patch request
 * implement a cancell botton to change the status of the room assignment from active to cancelled.
 * Improve the style of room assignment page and its components
+
+**Achievements and reflexion of the day:**
+
+I have managed to finish today's goal. However, tomorrow I have to make some decisions on what to keep in scope in order to deliver the project on time.
+
+![Trello board of day 26-end of the day](./Trello-screenshots/Day-26.png)
 
