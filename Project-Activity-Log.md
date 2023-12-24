@@ -7,7 +7,10 @@ In this log you will find the date, the daily goals and a summary of what has be
 This activity log is not only a tool for personal accountability, but also a valuable resource for self-assessment and future planning.
 
 ## Day 1
-
+* Create a very detailed plan of the task I need to develop to build this project.
+* Create the corresponding repository for the backend on gitHub.
+* Create the corresponding repository for the frontend on github.
+* Read about how to design and document the endpoints of the project. Create what is known as the API Contract.
 #### Date: Thu 16 Nov 2023
 
 We start our solo full stack Project!
@@ -263,3 +266,348 @@ Tomorrow I will start with the planning of the project start-up. I have left the
 
 ![Trello board of day 12](./Trello-screenshots/Day-12.png)
 
+_________________________________________________________________
+
+# PROJECT PART B 
+
+## Day 13
+
+#### Date: Mon 04 Dec 2023
+
+**Goals:**
+
+* Create a very detail plan of the task need it to develop to build this project.
+* Create the corresponding repository for the backend on gitHub
+* Create the corresponding repository for the frontend on github
+* Read about how to design and document the project end-points. To create what is known as the API Contract.
+
+
+**Achievements and reflexion of the day:**
+
+So far I have created the repositories for the backend and frontend. I have also added 17 cards to my Trello board with detailed tasks, starting with the configuration of the backend part of the project and ending with the deployment of the whole project.
+
+This whole project is very challenging given the limited time I have, which is why I plan to work on two or more Trello board cards per day to be able to finished on time.
+
+**Initial Trello board**
+
+![Trello board day-13](./Trello-screenshots/Day-13.png)
+
+
+## Day 14
+
+#### Date: Wed 06 Dec 2023
+
+**Goals:**
+
+* Start with the backend configuration by creating a node project, install the necessary packages.
+
+* Configure the database by connecting it to MongoDB Atlas, and create the schemas for our collections.
+
+* Create routes for the collection of room.
+
+* Create CRUD operations for the room.
+
+* Work on fixing the PART-A documentation with feedback from educators.
+
+* Start documenting endpoints and CRUD operations for the project in swager.
+
+
+**Achievements and reflexion of the day:**
+
+I have accomplished most of my goal of the day except the last 2 ones.
+
+* Work on fixing the PART-A documentation with feedback from educators.
+
+* Start documenting endpoints and CRUD operations for the project in swager.
+
+Also I have forgot to include the test on Postman of the rooms endpoints. I will include that on my to  do list for tomorrow.
+
+
+
+![Trello board of day 14](./Trello-screenshots/Day-14.png)
+
+
+
+## Day 15
+
+#### Date: Thu 07 Dec 2023
+
+**Goals:**
+
+* Create CRUD operations for users.
+* Create routes for room controllers.
+* Test user routes with Postman.
+* Test room routes with Postman.
+* Create Auht controller for LogIn feature
+
+From yesterday:
+* Work on fixing the PART-A documentation with feedback from educators.
+* Start documenting endpoints and CRUD operations for the project in swager.
+
+
+**Achievements and reflexion of the day:**
+
+I have set up the authentication and authorisation part of the application, so that each user can create and view its content. I also started to work on correcting part A of the documentation, but that will require more than a single day, so I will bring those tasks as part of my activities for tomorrow.
+
+![Trello board of day 15](./Trello-screenshots/Day-15.png)
+
+## Day 16
+
+#### Date: Sat 9 Dec 2023
+
+**Goals:**
+
+* Fix occupant schema.
+* Create CRUD operations for occupants.
+* Create routes for occupants controllers.
+* Test occupants routes with Postman.
+* Implement- unit test for the develop endpoints
+
+From yesterday:
+* Work on fixing the PART-A documentation with feedback from educators.
+    * DFD 
+    * Add Comments for wireframes for better understanding
+* Start documenting endpoints and CRUD operations for the project in swager.
+
+**Achievements and reflexion of the day:**
+So far the occupant api is ready and has been tested manually in postman. I have started with the implementation of the unit tests, and the documentation of the endpoints.
+
+![Trello board of day 16](./Trello-screenshots/Day-16.png)
+
+## Day 17
+
+#### Date: Mon 11 Dec 2023
+
+**Goals:**
+
+* Fix room assigment schema.
+* Create CRUD operations for room assigment.
+* Create routes for room assigment controllers.
+* Test room assigment routes with Postman.
+* Implement- unit test for the develop endpoints
+
+On-going 
+* Work on fixing the PART-A documentation with feedback from educators.
+    * DFD 
+    * Add Comments for wireframes for better understanding
+* Continue documenting endpoints and CRUD operations for the project in swager.
+
+
+**Achievements and reflexion of the day:**
+I've made a lot of progress with the unit testing of the models, I still need to test the routes and controllers.
+I have completed the room allocation management API, and tested them with postman.
+
+I have put the PART-A fix on hold as my priority is to get the backend up and running so I can start working on the frontend.
+
+Below is a screenshot of the to-do list of the unit test task.
+
+![Trello board of day 17](./Trello-screenshots/Day-17-unit-test-tasks.png)
+
+
+And here is how the trello board is looking at the end of the day.
+
+![Trello board of day 17](./Trello-screenshots/Day-17.png)
+
+## Day 18
+
+#### Date: Tues 12 Dec 2023
+
+**Goals:**
+
+* Fix payment record schema.
+* Create CRUD operations for payment record.
+* Create routes for payment record controllers.
+* Test payment record routes with Postman.
+* Implement- unit test for the develop endpoints
+
+**Achievements and reflexion of the day:**
+Today has been a very productive day, I have finished the payment records management api as well as testing them with postam.
+
+For unit testing, I just need to create tests for controllers and routes, before I can deploy the backend and start working on the frontend.
+
+![Trello board of day 18](./Trello-screenshots/Day-18.png)
+
+## Day 19
+
+#### Date: Wen 13 Dec 2023
+
+**Goals:**
+* Create unit test for the app controllers and routes.
+* Deploy the backend
+* Fix: user controller and routes, so auth user can view and update profile, and delete their account
+
+**Achievements and reflexion of the day:**
+I have deployed my backend!!!!
+From todays goals, I only missing the test for the new user controllers and routes. The testing coverage of the project currently is 73%, I am aiming to have at least 80%.
+
+The trello board looks like this at the on of the day.
+
+![Trello board of day 19](./Trello-screenshots/Day-19.png)
+
+
+## Day 20
+
+#### Date: Thu 14 Dec 2023
+
+**Goals:**
+
+I will give myself a small break to celebrate the and today my only goal will be set up the frontend project.
+
+**Achievements and reflexion of the day:**
+
+I create the bases of the project, but I still need to implement the navigation bar, heading and the footer.
+
+![Trello board of day 20](./Trello-screenshots/Day-20.png)
+
+
+## Day 21
+
+#### Date: Fri 15 Dec 2023
+
+I have re-organised the Trello board and create new card with the left tasks from the other cards, so that when I ready to do them I can create a new branch with the update version of the main branch. Today goals are the following.
+
+**Goals:**
+
+* Create the navigation bar, heading and footer for the app.
+* Link the frontend with the backend for a signup post request.
+* Create user authentication for the sign up.
+
+Here is how the re-organise Trello board looks like:
+
+![Trello board of start of the day 21](./Trello-screenshots/Day-21.png)
+
+**Achievements and reflexion of the day:**
+
+Today I have only managed one of the 3 tasks. It took me a bit of time to get back to the basic of the frontend, now I think I can move a bit faster to implement the other components and pages of the project.
+
+![Trello board of day 21-end of the day](./Trello-screenshots/Day-21-end-day.png)
+
+
+## Day 22
+
+#### Date: Mon 18 Dec 2023
+
+**Goals:**
+
+* Link the frontend with the backend for a signup post request.
+* Create user authentication for the login.
+* Implement components  to read, post, update and delete rooms from the room api.
+* implement logic to be able to call room api.
+
+**Achievements and reflexion of the day:**
+
+I have completed the sigup and login pages and they are now conected to the backend. I did some manual testing myself around and verify the functionality of this pages.
+
+![Trello board of day 22-end of the day](./Trello-screenshots/Day-22.png)
+
+
+## Day 23
+
+#### Date: Tue 19 Dec 2023
+
+**Goals:**
+
+* Create a Room page, and form for the create and update room.
+* Create components that handle  - view, create, update, and delete operation of the Room page.
+
+**Achievements and reflexion of the day:**
+
+I continue to work on the Rooms page. So far I have been able to get the data and present the information. Currently, I am working on the functionality of updating the rooms data, but it is taking longer than I expected, so I will continue working on it tomorrow.
+
+
+## Day 24
+
+#### Date: Wen 20 Dec 2023
+
+**Goals:**
+
+* Finish the Room pages with the full CRUD functionality working.
+* Deploy the frontend.
+* Start working on the Occupants page (get and post request).
+
+
+**Achievements and reflexion of the day:**
+
+Frontend is deployed!!!!! 
+
+The website is looking good!
+Today I have finished all my goals for the day, of course, there is always room for improvement. At this point, timing is crucial, tomorrow will be my last day with the frontend, before I start documenting the second part of my project.
+
+![Trello board of day 24-end of the day](./Trello-screenshots/Day-24.png)
+
+
+
+## Day 25
+
+#### Date: Thu 21 Dec 2023
+
+**Goals:**
+
+* Work of the Room assigment page, this should be able to show the rooms assign to occupants, and previous assignments.
+* Work on the User profile page, on this page, user should be able to view and update they information such as address phone number and delete their account.
+
+Depent of how much I achieve today, I might considere work on the payment record, otherwise I will start with the documentation of the endpoints and testing.
+
+**Achievements and reflexion of the day:**
+
+So far I have made the view of the room assignments and the create a new room assignment pages, I have chosen a different layout from what the original layout was.
+I probably need to keep working tomorrow on updating the room assignments.
+
+![Trello board of day 25-end of the day](./Trello-screenshots/Day-25.png)
+
+
+## Day 26
+
+#### Date: Fri 22 Dec 2023
+
+**Goals:**
+* Finished the update room assignment component and make sure it does sent correctly the patch request
+* implement a cancell botton to change the status of the room assignment from active to cancelled.
+* Improve the style of room assignment page and its components
+
+**Achievements and reflexion of the day:**
+
+I have managed to finish today's goal. However, tomorrow I have to make some decisions on what to keep in scope in order to deliver the project on time.
+
+![Trello board of day 26-end of the day](./Trello-screenshots/Day-26.png)
+
+
+## Day 27
+
+#### Date: Sat 23 Dec 2023
+
+**Goals:**
+
+* Reorganisation of activities according to priority on the Trello board.
+* Ensuring that the application is running smoothly. 
+* Gathering information for documentation.
+* Frontend Testing
+
+**Achievements and reflexion of the day:**
+
+Today I had planned to do the testing part of the frontend, however my body has not helped me so much, I woke up unable to move my wrist for spending long hours developing this project. I took the decision to leave out of scope some of the activities planned with the Trello board.
+
+I manually tested my frontend to verify that it worked as planned, although I didn't manage to document it.
+
+I started with the frontend documentation and made sure that the application was still working properly.
+
+![Trello board of day 27-end of the day](./Trello-screenshots/Day-27.png)
+
+
+## Day 28
+
+#### Date: Sun 24 Dec 2023
+
+Today is the delivery day!
+
+**Goals:**
+
+The main goal today is finished the documentation for the frontend and the backend.
+
+Also submit our project on time.
+
+**Achievements and reflexion of the day:**
+
+Project documented and delivered.!
+
+![Trello board of day 28-end of the day](./Trello-screenshots/Day-28.png)
