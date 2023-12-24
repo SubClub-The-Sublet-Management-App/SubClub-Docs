@@ -571,3 +571,26 @@ I have managed to finish today's goal. However, tomorrow I have to make some dec
 
 ![Trello board of day 26-end of the day](./Trello-screenshots/Day-26.png)
 
+
+## Day 27
+
+#### Date: Sat 23 Dec 2023
+
+**Goals:**
+
+* Reorganisation of activities according to priority on the Trello board.
+* Ensuring that the application is running smoothly. 
+* Gathering information for documentation.
+* Frontend Testing
+
+**Achievements and reflexion of the day:**
+
+Today I had planned to do the testing part of the frontend, however my body has not helped me so much, I woke up unable to move my wrist for spending long hours developing this project. I took the decision to leave out of scope some of the activities planned with the Trello board.
+
+I manually tested my frontend to verify that it worked as planned, although I didn't manage to document it.
+
+I started with the frontend documentation and made sure that the application was still working properly.
+
+![Trello board of day 27-end of the day](./Trello-screenshots/Day-27.png)
+
+
