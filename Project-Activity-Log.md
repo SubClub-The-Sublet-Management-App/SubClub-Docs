@@ -594,3 +594,20 @@ I started with the frontend documentation and made sure that the application was
 ![Trello board of day 27-end of the day](./Trello-screenshots/Day-27.png)
 
 
+## Day 28
+
+#### Date: Sun 24 Dec 2023
+
+Today is the delivery day!
+
+**Goals:**
+
+The main goal today is finished the documentation for the frontend and the backend.
+
+Also submit our project on time.
+
+**Achievements and reflexion of the day:**
+
+Project documented and delivered.!
+
+![Trello board of day 28-end of the day](./Trello-screenshots/Day-28.png)
